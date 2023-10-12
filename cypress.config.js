@@ -4,4 +4,6 @@ module.exports = {
       // implement node event listeners here
     },
   },
+  viewportWidth: 1440,
+  viewportHeight:	1361,
 };
