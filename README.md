@@ -6,7 +6,7 @@
 <br></br>
 
 ## 📗 Sobre
-Teste técnico realizado como parte do processo seletivo para vaga de estágio em Qualidade de Software (QA) na Ensinio
+Teste técnico realizado como parte do processo seletivo para vaga de estágio em Qualidade de Software na Ensinio.
 
 ## 📌 Execute o projeto
 
@@ -21,7 +21,7 @@ $ npx cypress open
 ```
 
 
-## Resultados
+## 🎯 Resultados
 
 | Caso de teste  | Resultado     | Motivo                                                       |
 | -------------- | ------------- | ------------------------------------------------------------ |
@@ -30,4 +30,4 @@ $ npx cypress open
 | `CT03`         | ✅ Sucesso    | A internacionalização é aplicada a todas as palavras         |
 
 ## 🖋 Autora
-<p align="center">Desenvolvido por Mariana Galindo</p>
+<p align="center">Mariana Galindo Soares</p>
